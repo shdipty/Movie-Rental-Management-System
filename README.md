@@ -118,19 +118,15 @@ ER Diagram
 
 ---
 
-## 📁 File Structure
+## 🏁 Conclusion
 
-Movie-Rental-Management-System/
-│
-├── app.py                         # Main application entry point
-├── movie_mgmt.py                  # Movie management module
-├── cust_rental_mgmt.py            # Customer & rental management module
-├── report_utils.py                # Excel report generation utilities
-├── db_config.py                   # Database configuration and connection
-├── README.md                      # Project documentation
-│
-│
-└── database/                      
-    └── movierental.sql
+The **Movie Rental Management System** successfully demonstrates how a database-driven desktop application can simplify day-to-day rental operations.  
+It integrates **Python Tkinter** for a user-friendly interface, **MySQL** for robust data management, and **OpenPyXL** for automated reporting.  
+
+Through this project, I strengthened my understanding of GUI-based programming, database integration, and system modularization.  
+Key outcomes include secure login authentication, structured CRUD operations, data visualization, and Excel report automation — all combined into a seamless management tool.  
+
+This project reflects practical experience in **application design, database connectivity, and cybersecurity awareness**, providing a strong foundation for future professional and academic development in IT and cybersecurity.
+
 
 
